@@ -7,7 +7,7 @@ In this desktop app people can view and create emails, configure themes and the 
 ## Features and Technologies included
 -  Login
 -  Email actions
--  Stages & CSS
+-  Themes: Stages & CSS
 -  JavaMail
 -  Multithreading
 
