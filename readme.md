@@ -9,7 +9,7 @@ In this desktop app people can view and create emails, configure themes and the 
 -  Email actions
 -  Themes: Stages & CSS
 -  JavaMail
--  Multithreading
+-  Multithreading (Non blocking UI)
 
 ## About
 

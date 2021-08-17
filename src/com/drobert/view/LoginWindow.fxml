@@ -13,6 +13,6 @@
       <Label layoutX="14.0" layoutY="193.0" prefHeight="25.0" prefWidth="81.0" text="Password" />
       <TextField fx:id="emailAddressField" layoutX="95.0" layoutY="146.0" prefHeight="25.0" prefWidth="404.0" />
       <PasswordField fx:id="passwordField" layoutX="95.0" layoutY="193.0" prefHeight="25.0" prefWidth="404.0" />
-      <Label fx:id="errorLabel" layoutX="178.0" layoutY="309.0" prefHeight="17.0" prefWidth="165.0" />
+      <Label fx:id="errorLabel" layoutX="37.0" layoutY="309.0" prefHeight="17.0" prefWidth="447.0" alignment="CENTER" />
    </children>
 </AnchorPane>

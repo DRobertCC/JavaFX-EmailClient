@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="javax.mail">
+    <CLASSES>
+      <root url="jar://C:/_Data/Programming/Java/javax.mail.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/_Data/Programming/Java/javax.mail source.zip!/javamail/android/activation/src/main/java" />
+      <root url="jar://C:/_Data/Programming/Java/javax.mail source.zip!/javamail/android/mail/src/main/java" />
+      <root url="jar://C:/_Data/Programming/Java/javax.mail source.zip!/javamail/client/src/main/java" />
+      <root url="jar://C:/_Data/Programming/Java/javax.mail source.zip!/javamail/demo/src/main/java" />
+      <root url="jar://C:/_Data/Programming/Java/javax.mail source.zip!/javamail/demo/src/main/java/internal" />
+      <root url="jar://C:/_Data/Programming/Java/javax.mail source.zip!/javamail/dsn/src/main/java" />
+      <root url="jar://C:/_Data/Programming/Java/javax.mail source.zip!/javamail/dsn/src/test/java" />
+      <root url="jar://C:/_Data/Programming/Java/javax.mail source.zip!/javamail/gimap/src/main/java" />
+      <root url="jar://C:/_Data/Programming/Java/javax.mail source.zip!/javamail/logging/src/main/java" />
+      <root url="jar://C:/_Data/Programming/Java/javax.mail source.zip!/javamail/mail/src/main/java" />
+      <root url="jar://C:/_Data/Programming/Java/javax.mail source.zip!/javamail/mail/src/main/resources" />
+      <root url="jar://C:/_Data/Programming/Java/javax.mail source.zip!/javamail/mail/src/oldtest/java/javax/mail/internet" />
+      <root url="jar://C:/_Data/Programming/Java/javax.mail source.zip!/javamail/mail/src/oldtest/java/javax/mail/internet/socketfactory" />
+      <root url="jar://C:/_Data/Programming/Java/javax.mail source.zip!/javamail/mail/src/test/java" />
+      <root url="jar://C:/_Data/Programming/Java/javax.mail source.zip!/javamail/mbox/src/main/java" />
+      <root url="jar://C:/_Data/Programming/Java/javax.mail source.zip!/javamail/mbox/src/test/java" />
+      <root url="jar://C:/_Data/Programming/Java/javax.mail source.zip!/javamail/outlook/src/main/java" />
+      <root url="jar://C:/_Data/Programming/Java/javax.mail source.zip!/javamail/servlet/src/main/java" />
+      <root url="jar://C:/_Data/Programming/Java/javax.mail source.zip!/javamail/taglib/src/main/java" />
+      <root url="jar://C:/_Data/Programming/Java/javax.mail source.zip!/javamail/webapp/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
